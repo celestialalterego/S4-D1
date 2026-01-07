@@ -15,7 +15,8 @@ export default defineConfig({
 				starlightSidebarTopics([
 					{
 						label: 'Guides',
-						link: 'guides/',
+						icon: 'book',
+						link: '/guides/',
 						items: [
 							{ label: 'Operating Systems', autogenerate: { directory: 'guides/os/_/' } },
 							{ label: 'Database Management Systems', autogenerate: { directory: 'guides/dbms/_/' } },
