@@ -21,7 +21,7 @@ export default defineConfig({
 							{ label: 'Operating Systems', autogenerate: { directory: 'guides/os/' } },
 							{ label: 'Database Management Systems', autogenerate: { directory: 'guides/dbms/' } },
 						]
-					}
+					},
 				]),
 			]
 		}),
