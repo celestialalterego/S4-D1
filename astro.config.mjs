@@ -18,8 +18,8 @@ export default defineConfig({
 						icon: 'book',
 						link: '/guides/',
 						items: [
-							{ label: 'Operating Systems', autogenerate: { directory: 'guides/os/_/' } },
-							{ label: 'Database Management Systems', autogenerate: { directory: 'guides/dbms/_/' } },
+							{ label: 'Operating Systems', autogenerate: { directory: 'guides/os/' } },
+							{ label: 'Database Management Systems', autogenerate: { directory: 'guides/dbms/' } },
 						]
 					}
 				]),
