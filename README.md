@@ -5,7 +5,6 @@
 #### Welcome to the Labs!
 This repository is a collections of **Practical Records**, **Experiments**, **References** and **Assignments** of the 4th Semester.
 
-</div>
 <br />
 
 ### Directory Locator
@@ -16,13 +15,11 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 | `Assignments` | Consists of all the **assignments** | [Link](assets/a/comming-soon.md) |
 | `Guides` | Consists of all the **guides** | [Link](assets/guides/) |
 
-<br />
-<div align=center>
-
-This repo has a licence of [MIT](LICENSE).
-
 ---
 
+<br />
+
+This repo has a licence of [MIT](LICENSE).
 ###### **Made with ❤️**
 
 </div>
