@@ -1,4 +1,4 @@
-## The Assignments Directory
+## The Guides Directory
 
 >[!note]
 > ### Coming Soon!
