@@ -1,2 +1,4 @@
-## The References Directory!
-This directory contains reference materials aquired from within the books.
+## The Reference Directory
+
+>[!note]
+> Coming Soon! Stay tuned!
