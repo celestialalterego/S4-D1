@@ -4,11 +4,11 @@
 
 <br />
 
-### Locate The Records
-| Subject Name | Link |
-| :---         | :--: |
-| Operating Systems Lab | Coming Soon! |
-| Database Management Systems Lab | [Link](dbms/) |
-| Computer Networks Lab | Coming Soon! |
+### Locate The Labs
+| Lab Name | URL |
+| :--- | :--: |
+| Operating Systems Lab | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
+| Database Management Systems Lab | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](dbms/README.md) |
+| Computer Networks Lab | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 
 </div>
