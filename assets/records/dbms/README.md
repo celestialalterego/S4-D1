@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <h5>© 2024 • Doruk Aysor • All Rights Reserved.</h5>
+  <h5>© 2026 • All Rights Reserved.</h5>
 </div>
