@@ -15,9 +15,8 @@
 ---
 
 <details>
-<summary><b>haulted</b></summary>
+<summary><h3><b>U2 • Database Design & ER Diagrams</b></h3></summary>
 
-### **U2 • Database Design & ER Diagrams**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :-------------------: | :-: | :-: | :--: |
 | `_` | To design an ER diagram for a student management system | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
