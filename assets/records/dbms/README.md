@@ -4,32 +4,32 @@
 
 <br />
 
-| Sl.No. | Aim of the Experiment | URL | DOE | DOS |
-| :---:  | :-------------------: | :-: | :-: | :--: |
-| `1`      | **Study of all the SQL Commands** | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/01.md) | `09/01/2026` | `12/01/2026` |
-
 ---
 
 ### **U1 • DBMS Lab: Installation & Basic Operations**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :-------------------: | :-: | :-: | :--: |
-| `1` | To install DBMS tools i.e., MySQL, Oracle, PostgreSQL | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
-| `_` | To create a basic database & perform simple operations | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `1` | To install MySQL | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
+| `2` | To create a basic database & perform simple operations i.e., create, alter and delete | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 
 ---
 
+<details>
+<summary>Unpublished</summary>
 ### **U2 • Database Design & ER Diagrams**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :-------------------: | :-: | :-: | :--: |
 | `_` | To design an ER diagram for a student management system | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 | `_` | To convert the ER diagram into a relational schema | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 
+</details>
+
 ---
 
 ### **U3 • Write SQL Queries**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :-------------------: | :-: | :-: | :--: |
-| `_` | To write SQL queries for table creation and modification | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `+` | To write SQL queries for table creation and modification | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 | `_` | To write SQL queries for data manipulation and retrieval | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 | `_` | To write SQL queries for querying data with filters and sorting | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 | `_` | To write SQL queries for joining multiple tables | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
