@@ -15,7 +15,7 @@
 ---
 
 <details>
-<summary>Unpublished</summary>
+<summary><b>haulted</b></summary>
 ### **U2 • Database Design & ER Diagrams**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :-------------------: | :-: | :-: | :--: |
@@ -76,6 +76,15 @@
 | `_` | To demonstrate backup and restore operations | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 
 <br />
+
+> [!note]
+> **Serial Numbering** codex:
+> - **_** - _Not PUBLISHED_ yet
+> - **$** - _PUBLISHED_, but not _VERIFIED_ yet
+> - **+** - _VERIFIED_, but not _INDEXED_ yet
+> - **<number>** - _VERIFIED_ and _INDEXED_
+> 
+> _INDEXED_ means that particular experiment is ready to be written!
 
 ---
 
