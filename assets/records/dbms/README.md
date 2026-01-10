@@ -9,14 +9,16 @@
   <summary><b>Important</b></summary>
 
   > [!note]
-  > **Serial No.** codex:
-  > 
-  > | Sl.No. | Rule                                  |
+  > These symbols used in the **Sl.No.** column indicate the status of each experiment record:
+  > | Sl.No. | Status                                |
   > | :----: | :------------------------------------ |
   > | `_`    | **NOT PUBLISHED :** Yet to be written |
   > | `+`    | **PUBLISHED :** Under review          |
   > | `$`    | **VERIFIED :** Reviewed and approved  | 
   > | `~`    | **ADDITIONAL :** Extra experiments    |
+  
+  > [!note]
+  > All the lines starting with `--` are comments and should be ignored while executing/writing SQL queries.
 
 </details>
 
