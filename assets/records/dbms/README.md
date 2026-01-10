@@ -23,8 +23,8 @@
 <br />
 
 ### **U1 • DBMS Lab: Installation & Basic Operations**
-| Sl.No. | Aim of the Experiment | URL | DOE | DOS |
-| :---:  | :------------------- | :-: | :-: | :--: |
+| Sl.No. | Aim of the Experiment | URL |
+| :---:  | :------------------- | :-: |
 | `$` | To install and explore MySQL database management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/01.md) |
 | `+` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/02.md) |
 
@@ -33,8 +33,8 @@
 ---
 
 ### **U2 • Database Design & ER Diagram**
-| Sl.No. | Aim of the Experiment | URL | DOE | DOS |
-| :---:  | :------------------- | :-: | :-: | :--: |
+| Sl.No. | Aim of the Experiment | URL |
+| :---:  | :------------------- | :-: |
 | `_` | To design an ER diagram for a student management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
 | `_` | To convert the ER diagram into a relational schema | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
 
@@ -43,8 +43,8 @@
 ---
 
 ### **U3 • SQL Queries**
-| Sl.No. | Aim of the Experiment | URL | DOE | DOS |
-| :---:  | :------------------- | :-: | :-: | :--: |
+| Sl.No. | Aim of the Experiment | URL |
+| :---:  | :------------------- | :-: |
 | `+` | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/03.md) |
 | `_` | To write SQL queries for data manipulation and retrieval | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
 | `_` | To write SQL queries for querying data with filters and sorting | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
