@@ -11,9 +11,9 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 | Directory | Link |
 | :--- | :--: |
 | `Records` | [![records](https://img.shields.io/badge/Records-%23000000.svg?style=for-the-badge&logo=bookstack&logoColor=fff)](assets/records/README.md) |
-| `References` | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
-| `Assignments` | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
-| `Guides` | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
+| `References` | [![references](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logo=wikibooks&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
+| `Assignments` | [![assignments](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logo=notion&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
+| `Guides` | [![guides](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logo=weightsandbiases&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 
 <br />
 
