@@ -15,10 +15,18 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 | `Assignments` | [![assignments](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logo=notion&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 | `Guides` | [![guides](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logo=weightsandbiases&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 
+</div>
 <br />
 
 ---
-/
+
+> [!NOTE]
+> This repository is archived from `11/01/2026` at `23:37`
+> Please contact the owners for any queries!
+
+
+<br />
+<div align=center>
 
 [![License: MIT](https://img.shields.io/badge/license-mit-%23000000.svg?style=for-the-badge)](LICENSE)
 [![built with love](https://img.shields.io/badge/built_with-♥️-%23000000.svg?style=for-the-badge&logoColor=fff)](#)
